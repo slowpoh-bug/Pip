@@ -44,7 +44,6 @@ Grab `Pip.exe` from the [Releases](../../releases) page and run it. Windows may 
 
 ## Compatibility
 
-- **Tested:** the 2026 Steam Controller over its wireless puck, a USB cable and Bluetooth, on Windows 11.
 - **Not supported:** the original 2015 Steam Controller, which uses a different protocol.
 - Pip is a normal always-on-top window, so it shows over borderless and windowed games but not over exclusive fullscreen.
 
